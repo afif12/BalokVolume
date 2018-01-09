@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.afif.myapplication.MainActivity"
     android:orientation="vertical">
-
+    /testcommit
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
